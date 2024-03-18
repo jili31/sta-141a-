@@ -804,7 +804,13 @@ auroc
 
 With an area under the curve of 0.6689, it suggest that our model has some discriminatory power and there can be room for improvement. 
 
+#Conclusion
 
+In the exploratory data analysis, I looked at neural and behavior data obtained from series of experiments with the 4 different mice. By looking at the characteristics of the dataset across multiple sessions, it gave us more information and the trends for the data. The changes across trials within sessions shows the success rates varied over time. 
+
+In the data integration, I made an approach to combine data from multiple trials so that I can extract shared patterns and address differences between the sessions. 
+
+For the last part, I trained a prediction model to predict the outcome base on neural activity and stimuli information. This was an interesting project to look at. 
 
 # Reference {-}
 
