@@ -736,7 +736,7 @@ auroc
 The above shows the prediction result for accuracy, confusion matrix, and auroc. Auroc helpes measure the performance of a binary classification model. Area under the curve is 0.7379 which means that our model with moderate discrimination ability and it suggest that there are some predictive power. 
 
 
-#This tests the data from session 18 on performances of 50 random trails. 
+# This tests the data from session 18 on performances of 50 random trails. 
 ```{r}
 
 # split
@@ -804,7 +804,7 @@ auroc
 
 With an area under the curve of 0.6689, it suggest that our model has some discriminatory power and there can be room for improvement. 
 
-#Conclusion
+# Conclusion
 
 In the exploratory data analysis, I looked at neural and behavior data obtained from series of experiments with the 4 different mice. By looking at the characteristics of the dataset across multiple sessions, it gave us more information and the trends for the data. The changes across trials within sessions shows the success rates varied over time. 
 
